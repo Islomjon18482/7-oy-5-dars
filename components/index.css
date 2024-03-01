@@ -1,0 +1,76 @@
+.footer{
+    padding: 84px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer h2{
+    color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: left;
+}
+.footer li{
+    color: rgb(180, 199, 231);
+font-size: 18px;
+font-weight: 400;
+line-height: 205%;
+letter-spacing: -1%;
+text-align: left;
+}
+.home__wrapper{
+    padding: 45px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(27, 55, 100);
+}
+.home__wrapper .title{
+    margin-bottom: 16px;
+    color: rgb(255, 255, 255);
+font-style: italic;
+font-size: 24px;
+font-weight: 400;
+line-height: 154.5%;
+letter-spacing: -2%;
+text-align: left;
+}
+.home__wrapper h2{
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 110%;
+    letter-spacing: -2%;
+    text-align: left;
+    margin-bottom: 32px;
+    width: 612px;
+}
+.home__wrapper p{
+    color: rgb(180, 199, 231);
+font-size: 19px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: left;
+width: 575px;
+margin-bottom: 49px;
+}
+.btns{
+    display: flex;
+    gap: 37px;
+    align-items: center;
+}
+.btns button{
+    background: rgb(255, 202, 66);
+    border: none;
+    padding: 20px 53px;
+}
+.btns a{
+    color: rgb(255, 255, 255);
+font-size: 19px;
+font-weight: 700;
+line-height: 125%;
+letter-spacing: 2%;
+text-align: center;
+}

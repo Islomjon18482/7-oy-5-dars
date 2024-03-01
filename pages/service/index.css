@@ -1,0 +1,135 @@
+.service__wrapper{
+    padding: 131px 0px 0px;
+    margin: 0px auto;
+}
+.service__heading h2{
+    text-align: center;
+    color: rgb(27, 55, 100);
+font-size: 30px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+margin-bottom: 65px;
+}
+.brands__cards{
+    width: 1200px   ;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.brands__card h2{
+    color: rgb(27, 55, 100);
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -1%;
+margin-top: 28px;
+margin-bottom: 9px;
+text-align: center;
+}
+.brands__card{
+    width: 248px;
+    display: flex;
+    flex-direction: column;
+}
+.brands__card p{
+    color: rgb(150, 154, 160);
+font-size: 18px;
+font-weight: 400;
+line-height: 170%;
+letter-spacing: -1%;
+text-align: center;
+}
+.service__footer{
+    margin: 141px auto;
+    margin-bottom: 0px;
+    padding: 37px 100px;
+    justify-content: space-between ;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: rgb(27, 55, 100);
+}
+.service__footer h2{
+    margin-bottom: 44px;
+    color: rgb(255, 255, 255);
+font-size: 30px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: left;
+}
+.service__footer p{
+    color: rgb(180, 199, 231);
+font-size: 19px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: left;
+width: 600px;
+margin-bottom: 31px;
+}
+.service__footer button{
+    padding: 21px 30px;
+    color: rgb(255, 255, 255);
+font-size: 19px;
+font-weight: 700;
+line-height: 125%;
+letter-spacing: 2%;
+text-align: center;
+    box-sizing: border-box;
+border-bottom: 1px solid rgb(255, 202, 66);
+border-left: 1px solid rgb(255, 202, 66);
+border-right: 1px solid rgb(255, 202, 66);
+}
+.read{
+    width: 100%;
+    padding: 161px;
+}
+.read__content{
+    margin: 0px auto;
+    padding: 121px 230px;
+    background: rgb(255, 202, 66);
+}
+.read__content h2{
+    color: rgb(27, 55, 100);
+font-size: 45px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: center;
+}
+.read__content p{
+    color: rgb(27, 55, 100);
+    margin-top: 37px;
+    margin-bottom: 37px;
+font-size: 19px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: center;
+}
+.send{
+    display: flex;
+    gap: 11px;
+}
+.send input{
+    width: 529px;
+    padding: 17px 24px;
+    color: rgb(150, 154, 160);
+font-size: 17px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: left;
+}
+.send button{
+    background: rgb(27, 55, 100);
+    padding: 20px 80px;
+    color: rgb(255, 255, 255);
+font-size: 19px;
+font-weight: 700;
+line-height: 125%;
+letter-spacing: 2%;
+text-align: center;
+}

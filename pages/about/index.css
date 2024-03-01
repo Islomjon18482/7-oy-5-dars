@@ -1,0 +1,92 @@
+.about{
+    padding: 145px;
+    background: rgb(244, 248, 255);
+}
+.card__wrapper{
+    padding: 0px 100px;
+    display: flex;
+    flex-direction: column;
+}
+.card__heading h2{
+    color: rgb(27, 55, 100);
+font-size: 30px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: center;
+text-align: center;
+}
+.cards{
+    margin-top: 79px;
+    display: flex;
+    gap: 68px;
+}
+.card{
+    display: flex;
+    align-items: center ;
+}
+.card__text{
+    padding: 33px 0px 40px 40px;
+}
+.card h2{
+    color: rgb(27, 55, 100);
+font-size: 24px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: left;
+}
+.card p{
+    color: rgb(150, 154, 160);
+font-size: 14px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: left;
+}
+.static{
+    display: flex;
+    justify-content: space-between;
+}
+.card h3{
+    color: rgb(27, 55, 100);
+font-size: 18px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -1%;
+text-align: left;
+}
+.card button{
+    box-sizing: border-box;
+border-bottom: 1px solid rgb(255, 202, 66);
+border-left: 1px solid rgb(255, 202, 66);
+border-right: 1px solid rgb(255, 202, 66);
+padding: 20px;
+margin-top: 20px;
+width: 220px;
+}
+.about__author{
+    gap: 142px;
+    background: rgb(244, 248, 255);
+    padding: 150px 0px;
+    display: flex;
+}
+.about__author__text h2{
+    color: rgb(27, 55, 100);
+font-size: 45px;
+font-weight: 700;
+line-height: 120%;
+letter-spacing: -2%;
+text-align: left;
+}
+.about__author__text p{
+    margin-top: 44px;
+    color: rgb(150, 154, 160);
+font-size: 19px;
+font-weight: 400;
+line-height: 180%;
+letter-spacing: -1%;
+text-align: left;
+margin-bottom: 44px;
+width: 576px;
+}
